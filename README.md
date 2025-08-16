@@ -1,4 +1,4 @@
-# Hitanshi-Patil
+# Hitanshi-N-Patil
 # 👋 Hey there, I'm **Hitanshi Patil**
 **Data Scientist | Machine Learning Explorer | Data Storyteller**
 
